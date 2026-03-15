@@ -1,0 +1,10 @@
+{
+  "name": "Rutracker",
+  "id": "rutracker.anime",
+  "version": "1.0.0",
+  "description": "Search anime torrents on Rutracker (requires account)",
+  "author": "you",
+  "language": "ru",
+  "type": "js",
+  "entry": "extension.js"
+}
